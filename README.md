@@ -1,27 +1,19 @@
-<h1 align="center">¡Hola! 👋 Soy Wladimir Fuentes Díaz</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="120" alt="Avatar Pokémon" />
+</p>
+
+<h1 align="center">Wladimir Fuentes Díaz</h1>
 
 <p align="center">
-  Estudiante de Ingeniería en Informática en INACAP 🧑‍💻 <br>
-  Apasionado por la programación, el soporte computacional y el desarrollo de soluciones tecnológicas.
+  Estudiante de Ingeniería en Informática en INACAP<br>
+  En formación como Desarrollador Full Stack, con interés en el desarrollo web, sistemas ágiles y soporte tecnológico.
 </p>
 
 ---
 
-### 🎓 Formación en curso
+### 📜 Certificaciones obtenidas
 
-- 📚 Cursando último año de Ingeniería en Informática
-- 🛠️ En proceso de formación como **Desarrollador Full Stack**
-- 🧰 Me estoy especializando en:
-  - Desarrollo Web (Front y Back End)
-  - Soporte Técnico y Sistemas Operativos
-  - Bases de Datos Relacionales y NoSQL
-  - Diseño Ágil de Sistemas
-
----
-
-### 🧾 Certificaciones obtenidas (INACAP)
-
-- 🖥️ **Soporte Computacional** – 126 horas  
+- 💻 **Soporte Computacional** – 126 horas  
 - 🌐 **Desarrollador Full Stack** – 162 horas  
 - 🧱 **Desarrollo de Aplicaciones Básicas** – 162 horas  
 - ⚙️ **Diseño Ágil de Sistemas** – 126 horas  
@@ -29,32 +21,33 @@
 
 ---
 
-### 🧰 Tecnologías que manejo
+### 🛠️ Tecnologías
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 📈 GitHub Stats
 
-![Wladimir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WladimirPro&show_icons=true&theme=radical)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=WladimirPro&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WladimirPro&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WladimirPro&layout=compact&theme=gruvbox" alt="Top Langs" />
+</div>
 
 ---
 
 ### 📫 Contacto
 
-- 📧 Correo: wl4d1m1rft@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/wladimir-fuentes-diaz-69a954372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- 🌐 Portafolio: 
+- 📧 Correo: wl4d1m1rft@gmail.com  
+- 🌍 Portafolio: *(pendiente)*  
+- 💼 LinkedIn: *(agrega tu enlace cuando lo tengas)*
 
 ---
 
-> “Nunca pares de aprender, porque la tecnología nunca para de avanzar.” – Wladimir
