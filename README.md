@@ -53,7 +53,7 @@
 <p align="center">
   <a href="mailto:wl4d1m1rft@gmail.com">📧 wl4d1m1rft@gmail.com</a><br>
   <a href="https://www.linkedin.com/in/wladimir-fuentes-diaz-69a954372" target="_blank">🔗 LinkedIn: Wladimir Fuentes Díaz</a><br>
-  🌐 Portafolio: En desarrollo
+  <a href="https://portafolio-xi-liart.vercel.app/#proyectos"> 🌐 Portafolio</a><br>
 </p>
 
 ---
